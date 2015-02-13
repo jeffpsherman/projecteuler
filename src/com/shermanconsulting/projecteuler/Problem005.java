@@ -9,7 +9,7 @@ import com.shermanconsulting.projecteuler.mathUtils.Multiples;
  * @author sherman
  *
  */
-public class Problem5 {
+public class Problem005 {
 
 	public static void main(String[] args) {
 		final int startRange = 1;

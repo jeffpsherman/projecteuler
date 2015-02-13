@@ -10,7 +10,7 @@ import com.shermanconsulting.projecteuler.mathUtils.Palindrome;
  * @author sherman
  *
  */
-public class Problem4 {
+public class Problem004 {
 
 	public static void main(String[] args) {
 		int digits = 3;

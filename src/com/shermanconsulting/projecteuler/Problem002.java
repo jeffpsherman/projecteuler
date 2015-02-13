@@ -11,7 +11,7 @@ package com.shermanconsulting.projecteuler;
  * @author sherman
  *
  */
-public class Problem2 {
+public class Problem002 {
 
 	/**
 	 * Ease over elegance
@@ -35,7 +35,7 @@ public class Problem2 {
 			b = next;
 		}
 		System.out.println(sum);
-
+		
 	}
 
 }
